@@ -291,7 +291,7 @@ a img {
 .photo-album {
     position: absolute;
     width: 80%;
-    margin-bottom: 100px;
+    margin-top:  100px;
     margin-left: 300px;
     max-width: 70em;
     height: 450px;
